@@ -4,3 +4,4 @@ languages/
 plugins/
 themes/index.php
 uploads/
+.gitignore
